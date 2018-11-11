@@ -1,7 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
-* [First Chapter](chapter1.md)
-* [目录](目录.md)
-* [总则](zong-ze.md)
-  * [手册目的](zong-ze/shou-ce-mu-de.md)
+* [手册说明](README.md)
+* [版本说明](1.0版本说明.md)
+* [目录](0.目录.md)
+* [总则](2.0总则.md)
